@@ -1,0 +1,12 @@
+.root {
+  .screen{
+    width: 600px;
+    height: 400px;
+    position: relative;
+    background: rgba(12.75, 11.79, 11.79, 0.77);
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    display: flex;
+  }
+}
