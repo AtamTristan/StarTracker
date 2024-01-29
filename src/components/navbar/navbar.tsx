@@ -15,8 +15,8 @@ export const Navbar = ({ className }: NavbarProps) => {
           <nav>
               <ul>
                   <li className={styles.left}><a className={styles.active} href="#about">StarTracker</a></li>
-                  <li><a href="#news">Nasa Pictures</a></li>
-                  <li><a href="#home">ISS Location</a></li>
+                  <li><a href="#">Nasa Pictures</a></li>
+                  <li><a href="#">ISS Location</a></li>
               </ul>
           </nav>
         </div>
